@@ -1,0 +1,16 @@
+body {
+    background-image: url("http://www.cashadvance6online.com/data/archive/img/3192622525.png");
+    background-position: cover;
+ }
+header {
+    text-align: center;
+    margin: 0 auto; 
+    font-family: 'Cabin Sketch', cursive;
+    text-decoration-color: aliceblue;
+}
+.buttons {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
